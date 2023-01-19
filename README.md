@@ -18,4 +18,4 @@ Your task is to create a complete model of a complex network by discovering the 
 
 While designing, keep the issue of future expansion/ growth in mind for each of the subnets (if required) and preserve spaces. In the physical design, it is a good practice to have a server room where all the servers are located in one LAN segment.
 
-image
+[image](https://user-images.githubusercontent.com/98944063/212482087-00c19bfd-eb83-4774-ba9a-b06fb7c5bb6e.png)
